@@ -1,9 +1,6 @@
 ## Proyecto Curso 3
 Para este proyecto desarrollaremos un proyecto para administrar productos en una tienda. Aquí está el esquema que seguiremos:
 ### Procedimiento
-
-La actividad se calificará por una serie de puntos asociados a cada actividad propuesta, en total son 50 puntos para una nota de 5, las actividades a realizar son: 
-
 - **Modelos**:
 Crearemos un modelo `Producto` con los siguientes atributos:
     - **nombre** (String): Nombre del producto.
